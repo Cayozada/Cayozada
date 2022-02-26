@@ -1,4 +1,4 @@
 
-<center><h2>Cayo<h2/><center/>
+<h2 allign="center">Cayo<h2/>
 
 
