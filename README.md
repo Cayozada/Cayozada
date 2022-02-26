@@ -1,3 +1,3 @@
-<h6 align ="center" color="red">Cayo</h6>
+<h1 style="color:red" align ="center" >Cayo</h1>
 
 
