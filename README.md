@@ -1,7 +1,6 @@
-
    <h1 align="center">Cayozada</h1>
    <h3 align ="center">Cursando Desenvolvimento de sistemas</h3>
-<table align="center">
+<table align="center" border="2px solid " border-collapse="collapse">
   <tr>
     <th colspan="5">Competencias</th>
   </tr>
