@@ -1,17 +1,27 @@
-<html> 
- <body backgroud-color="black">
-   <h1 color="#06f9f9" align="center">Cayozada</h1>
-   <h3 color="#06f9f9" align ="center">Cursando Desenvolvimento de sistemas</h3>
-   <br>
-<h3 color="#06f9f9"><i>Competencias</i></h3>
 
-
- <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=orange&color=black" height="200" width="155" > 
- <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=blue&color=black" height="200" width="155" > 
- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=blue&color=black" height="200" width="155" >
- <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=red&color=black" height="200" width="155" > 
- <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=green&color=black" height="200" width="155" > 
- <img src="https://img.shields.io/badge/MICROSOFT SQL SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=red&color=black" height="200" width="155" > 
- <img src="https://img.shields.io/badge/PHPMYADMIN-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&color=black" height="200" width="155" > 
- </body>
-</html>
+   <h1 align="center">Cayozada</h1>
+   <h3 align ="center">Cursando Desenvolvimento de sistemas</h3>
+<table align="center">
+  <tr>
+    <th colspan="5">Competencias</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"></td>
+    <th>Php My admin</th>
+  </tr>
+ <tr>
+    <td><img src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white"> </td>
+    <td><img src="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=react&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white"></td>
+    <th>Microsof SQL Server</th>
+  </tr>
+ <tr>
+    <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white"></td>
+    <td colspan="5"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"></td>
+  </tr>
+</table>
